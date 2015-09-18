@@ -11,6 +11,5 @@ CMD /usr/sbin/sshd -D
 
 USER nobody
 WORKDIR /tmp
-ENV foobar "Hello World"
 
 EXPOSE 2222
